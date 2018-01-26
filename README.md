@@ -6,8 +6,7 @@ I like to read, learn about new technologies, and help others.
 I hope to get better about talking about myself, my strengths and my weaknesses, through writing.
 I will add some more information here, about myself, at a future date.
 
-# accomplishments
-# reference: "https://guides.github.com/activities/hello-world/"
+# accomplishments reference: https://guides.github.com/activities/hello-world/
 Here’s what you accomplished in this tutorial:
 
     Created an open source repository
