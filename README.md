@@ -5,3 +5,7 @@ I live in Pennsylvania, with my family and a bunch of pets.
 I like to read, learn about new technologies, and help others.
 I hope to get better about talking about myself, my strengths and my weaknesses, through writing.
 I will add some more information here, about myself, at a future date.
+
+# python code
+There will be some python code here at some point.
+It will be very basic python code, but everyone needs to start at the beginning.
